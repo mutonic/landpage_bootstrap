@@ -1,11 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-dark)
 
-# landpage_bootstrap
-
-
 <div align="center">
   
-  <h3><b>Bootstrap-Porfolio</b></h3>
+  <h2><b>landing Page with Bootstrap</b></h2>
 
 </div>
 
